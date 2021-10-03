@@ -1,0 +1,16 @@
+#Medichat{
+    font-family: 'Josefin Sans', sans-serif;
+}
+h3{
+    font-family: 'Josefin Sans', sans-serif;
+}
+body{
+    background-color: aqua;
+}
+#project{
+    font-family: 'Coming Soon', cursive;
+    font-size: 60;
+}
+#project:hover{
+    cursor: pointer;
+}
